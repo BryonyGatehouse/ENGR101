@@ -8,3 +8,10 @@ Using the color difference between the black tabletop and the white line
 the robot controls it's two motors so the line stays in the middle
 
 Uses a complex algorithm to control the motors
+
+RESULTS
+
+While a straight line was fairly easy, some of the larger curves proved 
+difficult. Through testing, the correct ratio was finally found. Another
+variable, the camera position, was also changed from the intial position, 
+as a low angled position provided a smoother and more accurate journey.
