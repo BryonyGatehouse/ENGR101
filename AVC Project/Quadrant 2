@@ -1,0 +1,10 @@
+QUADRANT 2
+
+Follow a curvy white line
+
+FOLLOW A LINE
+
+Using the color difference between the black tabletop and the white line
+the robot controls it's two motors so the line stays in the middle
+
+Uses a complex algorithm to control the motors
