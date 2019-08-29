@@ -1,0 +1,9 @@
+QUADRANT 4
+
+No more white line. Instead complete a maze with walls 100 mm tall (and 
+no loops)
+
+COMPLETE MAZE
+
+Uses sensors to tell distance between walls and controls motors to stay in
+middle. Sticks to one wall as there are no loops. 
