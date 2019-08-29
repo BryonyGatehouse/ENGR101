@@ -1,0 +1,12 @@
+QUADRANT 3
+
+Follow a white line maze
+
+MAZE ALGORITHM
+
+As the line is always straight, the vehicle can simplify the Line
+Following Algorithm used in Quadrant 2
+
+Corners require 45˚ turns
+
+Prefers Left turns rather than white (which matched the maze given)
