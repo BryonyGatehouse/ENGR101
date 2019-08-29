@@ -10,3 +10,9 @@ Following Algorithm used in Quadrant 2
 Corners require 45˚ turns
 
 Prefers Left turns rather than white (which matched the maze given)
+
+RESULTS
+
+It took a while for the vehicle to work out how to turn corners correctly
+(left or right), but by checking which side the white line heads, it
+learnt quickly. It prefered left turns. 
