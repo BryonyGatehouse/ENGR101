@@ -7,3 +7,11 @@ COMPLETE MAZE
 
 Uses sensors to tell distance between walls and controls motors to stay in
 middle. Sticks to one wall as there are no loops. 
+
+RESULTS
+
+This part wasn't completed properly. The vehicle could only travel a little 
+way down the first maze corridor before it started tending towards one side.
+With a nudge, it made it to the first corner, but couldn't make it completely
+round. No more nudges were attempted (it was assumed that the vehicle wouldn't
+make it far enough down the maze to be worth more points)
