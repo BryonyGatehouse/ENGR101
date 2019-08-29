@@ -1,0 +1,13 @@
+QUADRANT 1 
+
+The vehicle follows a straight line forwards, wirelessly opens a gate, and
+moves through
+
+OPENING THE GATE
+
+The robot has to send a "Please" request to the server (gate) which sends
+a password which needs to be reflected back to open the gate
+
+FOLLOWING A STRAIGHT LINE
+
+Uses the same algorithm as Quadrant 2 (described in Quadrant 2)
